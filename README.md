@@ -1,3 +1,4 @@
+NOTE: these is only instaraction for the model created deeper explanation about the Convolutional neural network will be provided in our Article is avalable in this link: http://langaytm.com/convolution-neural-network/
 # ccn1
 Instructions 
 in this model there sevel packages used that needds to be imported before excution will name the important packages and how to install it
